@@ -11,12 +11,10 @@ my vision board showing everything i want to achieve
 - **Grow**: Contribute to open source and collaborate with other devs
 
 #### 🛠️ Tech Stack I’m Learning
-`Python` `Pandas` `SQL` `Git` `HTML/CSS` `Streamlit`
+`Python` `HTML/CSS/JS` `c#'
 
-#### 📈 Current Focus
-Building: `Bank Expense Analyzer` - a Python app to track spending and visualize habits  
-Learning: Data visualization and dashboard design
-
+#### 📈 Current Focus###
+'learning programming'
 #### 📫 Let's Connect
 [WhatsApp](https://wa.me/27789239685) | [LinkedIn](http://linkedin.com/in/kgonego-malete-60a958349/)
 
