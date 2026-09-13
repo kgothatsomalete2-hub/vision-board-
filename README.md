@@ -11,12 +11,12 @@ my vision board showing everything i want to achieve
 - **Grow**: Contribute to open source and collaborate with other devs
 
 #### 🛠️ Tech Stack I’m Learning
-`Python` `HTML/CSS/JS` `c#'
+Python HTML/CSS/Js C#
 
 #### 📈 Current Focus###
-'learning programming'
+learning programming
 #### 📫 Let's Connect
 [WhatsApp](https://wa.me/27789239685) | [LinkedIn](http://linkedin.com/in/kgonego-malete-60a958349/)
 
----
-"Turning data into decisions"
+
+Turning data into decisions
