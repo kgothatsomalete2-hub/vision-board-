@@ -19,4 +19,4 @@ my vision board showing everything i want to achieve
 [WhatsApp](https://wa.me/27789239685) | [LinkedIn](http://linkedin.com/in/kgonego-malete-60a958349/)
 
 ---
-*"Turning data into decisions"*
+"Turning data into decisions"
